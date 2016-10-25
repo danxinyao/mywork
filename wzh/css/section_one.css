@@ -5,16 +5,11 @@ body {
 }
 
 #section_one .top {
-    height: 80px;
-    background-color: pink;
-    position:fixed;
+    height: 12%;
+    background:url(../img/section_one/backgroundimg.jpg);
     width: 100%;
-    top:0;
-    left:0;
 }
-#empty{
-    height:12%;
-}
+
 #section_one .top nav {
     height: 100%;
 }
@@ -34,7 +29,7 @@ body {
 }
 
 #section_one .top nav ul .text {
-    font-size:16px;
+    font-size:20px;
     box-sizing: border-box;
     padding-top: 2%;
     width: 10%;
